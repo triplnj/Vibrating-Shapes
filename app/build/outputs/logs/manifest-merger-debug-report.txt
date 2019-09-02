@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\78099303f5f03c138995b7ff72802fa5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\e384a3d6ac5a964ec37d0dca9478bfe6\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\277034d1a53aad6896fef6493c57d84b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\dcc605e8bd00e4a2a6950f09b984f261\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\060462536890bf80ebbe4b6aa05d35c0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\848c5725b9d20a5be706898a2da01e91\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\4d80de5e93f5447900b66f368bc32b34\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\90d038bfb4b748215491717f21c435ba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\32c0d866784d3172f478c4c7671bb6ab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\8db9184eff85c77367df4b10a27ce6a5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\32aea1550697a33b778233f1642bd62b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\8e77de9e16b5bf08d026e5b54e9642e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\ed61273e26c97fbea28b949cf6acc33a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\c706bb283d29fb702f78a762bf9ce6d1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\0c0fb381e1488dfd0dc1862d1d869c86\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\5f44116025692278150aa72b3c473e53\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\a5a9f15b9dcea374151f7e6d50f6220d\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\13007e0bddff19fa66ad501874997a6a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\7c49fd02e08e93e6d789e5632267c218\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\56c486c26200919a0721a12ed50d76ef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\377f3c82bef81d4955beb9e8c65f5bea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\f15b1dfc11b86e037aafc5d31c7cf826\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\563d5066c0b362664ab73d01eca569a5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\bab3a9c246a045fbb2403d9f80a260fd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\1746353f2f9a8ff69cb57c75417f0940\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\908209957470d1c5c98960cee993114e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\9ab7e33acfc0a246f947f79c5b7af514\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:5:22-63
+application
+ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\e384a3d6ac5a964ec37d0dca9478bfe6\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\e384a3d6ac5a964ec37d0dca9478bfe6\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\5f44116025692278150aa72b3c473e53\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\5f44116025692278150aa72b3c473e53\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\a5a9f15b9dcea374151f7e6d50f6220d\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\a5a9f15b9dcea374151f7e6d50f6220d\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\5f44116025692278150aa72b3c473e53\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.dejanivkovic.shapevib.Circle
+ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:14:19-41
+activity#com.dejanivkovic.shapevib.Rectangle
+ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:15:9-47
+	android:name
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:15:19-44
+activity#com.dejanivkovic.shapevib.Triangle
+ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:16:9-46
+	android:name
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:16:19-43
+activity#com.dejanivkovic.shapevib.MainActivity
+ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\78099303f5f03c138995b7ff72802fa5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\78099303f5f03c138995b7ff72802fa5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\e384a3d6ac5a964ec37d0dca9478bfe6\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\e384a3d6ac5a964ec37d0dca9478bfe6\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\277034d1a53aad6896fef6493c57d84b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\277034d1a53aad6896fef6493c57d84b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\dcc605e8bd00e4a2a6950f09b984f261\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\dcc605e8bd00e4a2a6950f09b984f261\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\060462536890bf80ebbe4b6aa05d35c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\060462536890bf80ebbe4b6aa05d35c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\848c5725b9d20a5be706898a2da01e91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\848c5725b9d20a5be706898a2da01e91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\4d80de5e93f5447900b66f368bc32b34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\4d80de5e93f5447900b66f368bc32b34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\90d038bfb4b748215491717f21c435ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\90d038bfb4b748215491717f21c435ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\32c0d866784d3172f478c4c7671bb6ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\32c0d866784d3172f478c4c7671bb6ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\8db9184eff85c77367df4b10a27ce6a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\8db9184eff85c77367df4b10a27ce6a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\32aea1550697a33b778233f1642bd62b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\32aea1550697a33b778233f1642bd62b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\8e77de9e16b5bf08d026e5b54e9642e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\8e77de9e16b5bf08d026e5b54e9642e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\ed61273e26c97fbea28b949cf6acc33a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\ed61273e26c97fbea28b949cf6acc33a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\c706bb283d29fb702f78a762bf9ce6d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\c706bb283d29fb702f78a762bf9ce6d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\0c0fb381e1488dfd0dc1862d1d869c86\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\0c0fb381e1488dfd0dc1862d1d869c86\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\5f44116025692278150aa72b3c473e53\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\5f44116025692278150aa72b3c473e53\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\a5a9f15b9dcea374151f7e6d50f6220d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\a5a9f15b9dcea374151f7e6d50f6220d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\13007e0bddff19fa66ad501874997a6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\13007e0bddff19fa66ad501874997a6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\7c49fd02e08e93e6d789e5632267c218\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\7c49fd02e08e93e6d789e5632267c218\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\56c486c26200919a0721a12ed50d76ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\56c486c26200919a0721a12ed50d76ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\377f3c82bef81d4955beb9e8c65f5bea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\377f3c82bef81d4955beb9e8c65f5bea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\f15b1dfc11b86e037aafc5d31c7cf826\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\f15b1dfc11b86e037aafc5d31c7cf826\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\563d5066c0b362664ab73d01eca569a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\563d5066c0b362664ab73d01eca569a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\bab3a9c246a045fbb2403d9f80a260fd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\bab3a9c246a045fbb2403d9f80a260fd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\1746353f2f9a8ff69cb57c75417f0940\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\1746353f2f9a8ff69cb57c75417f0940\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\908209957470d1c5c98960cee993114e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\908209957470d1c5c98960cee993114e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\9ab7e33acfc0a246f947f79c5b7af514\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cyberdog\.gradle\caches\transforms-2\files-2.1\9ab7e33acfc0a246f947f79c5b7af514\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cyberdog\AndroidStudioProjects\ShapeVib\app\src\main\AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Mon Aug 26 23:27:00 CEST 2019
+base.0=C\:\\Users\\cyberdog\\AndroidStudioProjects\\ShapeVib\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
