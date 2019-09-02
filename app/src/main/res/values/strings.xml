@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShapeVib</string>
+    <string name="drawButton">DRAW</string>
+    <string name="sizetext">Size</string>
+</resources>
